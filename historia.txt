@@ -1,1 +1,2 @@
-Este es el archivo de prueba de aprender Git. 
+Este es el archivo de prueba de hoy para aprender Git. 
+Esta es una linea nueva
